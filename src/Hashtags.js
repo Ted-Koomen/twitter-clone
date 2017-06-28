@@ -29,7 +29,7 @@ class Hashtags extends Component {
             {"tag":"#swag"},
             {"tag":"#react"},
             {"tag":"#bummersummer"}
-            ]
+            ]   
         return(
             <section id = "trends-container">
                 <h3> Trends </h3>
