@@ -5,6 +5,7 @@ import './App.css'
 
 class Hashtag extends Component {
     
+
     render(){
         let hashtag = this.props.info    
         return(
